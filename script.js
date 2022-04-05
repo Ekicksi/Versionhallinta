@@ -8,4 +8,4 @@ function displayHello() {
     {
         document.getElementById('greeting').innerHTML = "";
     }
-}
+}//testi

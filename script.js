@@ -8,6 +8,7 @@ function displayHello() {
     {
         document.getElementById('greeting').innerHTML = "";
     }
-}//testiiuytiuyuuyyt
-//Vielä testiä
-//testiä number 500
+}
+// testiiuytiuyuuyyt
+// Vielä testiä
+// testiä number 500
